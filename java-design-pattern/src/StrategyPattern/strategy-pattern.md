@@ -13,5 +13,4 @@ Here, Customer adding items in there shopping cart and at the time of payment, s
 Based on selected payment option, payment has been taken.
 
 
-
 __Note: One of the best example of strategy pattern is `Collections.sort()` method that takes Comparator parameter. Based on the different implementations of Comparator interfaces, the Objects are getting sorted in different ways.__
