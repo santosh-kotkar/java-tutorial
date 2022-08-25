@@ -6,7 +6,7 @@ It Also known as `Policy Pattern`.
 
 Example: Shopping Cart
 
-Here, Customer added items in shopping cart and while payment, s/he decided to choose payment option.
+Here, Customer added items in shopping cart and while payment, he decide to choose payment option.
 1. Credit / Debit card
 2. Paypal
 
