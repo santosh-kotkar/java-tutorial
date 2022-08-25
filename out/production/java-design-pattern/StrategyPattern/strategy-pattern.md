@@ -6,12 +6,11 @@ It Also known as `Policy Pattern`.
 
 Example: Shopping Cart
 
-Here, Customer added items in shopping cart and while payment, he decide to choose payment option.
+Here, Customer adding items in there shopping cart and at the time of payment, s/he decided to choose payment option.
 1. Credit / Debit card
 2. Paypal
 
 Based on selected payment option, payment has been taken.
-
 
 
 __Note: One of the best example of strategy pattern is `Collections.sort()` method that takes Comparator parameter. Based on the different implementations of Comparator interfaces, the Objects are getting sorted in different ways.__
