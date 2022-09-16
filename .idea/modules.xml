@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java-basics/java-basics.iml" filepath="$PROJECT_DIR$/java-basics/java-basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-bean-mappers/java-bean-mappers.iml" filepath="$PROJECT_DIR$/java-bean-mappers/java-bean-mappers.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-design-pattern/java-design-pattern.iml" filepath="$PROJECT_DIR$/java-design-pattern/java-design-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-lambda/java-lambda.iml" filepath="$PROJECT_DIR$/java-lambda/java-lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-tutorial.iml" filepath="$PROJECT_DIR$/java-tutorial.iml" />
     </modules>
   </component>
 </project>
